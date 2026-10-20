@@ -2,6 +2,7 @@
 
 ## Completed Components
 * **Core A:** Power iteration and inverse iteration (`lab2-coreA-power_iteration.ipynb`)
+* **Core B:** Markov chains and PageRank (`Lab2-coreB-pagerank.ipynb`)
 * **Chosen Bonus Extension:** **$\star$ Extension 1 — The QR algorithm** (located at the end of `lab2-coreA-power_iteration.ipynb`).
 
 ## Task Distribution
